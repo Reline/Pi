@@ -1,0 +1,7 @@
+include <wiringPi.h>
+
+# Compiling
+g++ -Wall -o <exec_name> <filename> -lwiringPi
+
+# Running
+sudo ./<exec_name>
