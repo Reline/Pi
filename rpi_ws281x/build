@@ -1,0 +1,1 @@
+gcc main.c ws2811.c pwm.c dma.c board_info.c mailbox.c -lwiringPi -o RelineRGB && sudo ./RelineRGB
