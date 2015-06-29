@@ -7,4 +7,4 @@ Run the build file located in the directory
 <pre><code>./build</code></pre>
 
 or use a C compiler to link these files - here I use gcc
-<pre><code>gcc main.c ws2811.c pwm.c dma.c board_info.c mailbox.c -lwiringPi -o <desiredFileName> && sudo ./<desiredFileName></code></pre>
+<pre><code>gcc main.c ws2811.c pwm.c dma.c board_info.c mailbox.c -lwiringPi -o desiredFileName> && sudo ./desiredFileName</code></pre>
