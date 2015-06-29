@@ -1,5 +1,5 @@
 # RGB LED Strip
-The library used to manipulate the GPIO ports was [wiringPi](wiringpi.com).
+The library used to manipulate the GPIO ports was [wiringPi](http://wiringpi.com).
 Original code made during this project can be found in:  main.c ws2811.h ws2811.c
 
 ## Compiling
